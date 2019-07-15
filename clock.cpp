@@ -83,14 +83,14 @@ void draw(void)
     RenderString(40, 0, GLUT_BITMAP_TIMES_ROMAN_24, time_3);
     RenderString(-40, 0, GLUT_BITMAP_TIMES_ROMAN_24, time_9);
 
-    RenderString(-35, 20, GLUT_BITMAP_TIMES_ROMAN_24, time_11);
-    RenderString(35, 20, GLUT_BITMAP_TIMES_ROMAN_24, time_1);
+    RenderString(-35, 20, GLUT_BITMAP_TIMES_ROMAN_24, time_10);
+    RenderString(35, 20, GLUT_BITMAP_TIMES_ROMAN_24, time_2);
     RenderString(35, -20, GLUT_BITMAP_TIMES_ROMAN_24, time_4);
     RenderString(-35, -20, GLUT_BITMAP_TIMES_ROMAN_24, time_8);
 
-    RenderString(-20, 35, GLUT_BITMAP_TIMES_ROMAN_24, time_10);
-    RenderString(20, 35, GLUT_BITMAP_TIMES_ROMAN_24, time_2);
-    RenderString(20, -35, GLUT_BITMAP_TIMES_ROMAN_24, time_3);
+    RenderString(-20, 35, GLUT_BITMAP_TIMES_ROMAN_24, time_11);
+    RenderString(20, 35, GLUT_BITMAP_TIMES_ROMAN_24, time_1);
+    RenderString(20, -35, GLUT_BITMAP_TIMES_ROMAN_24, time_5);
     RenderString(-20, -35, GLUT_BITMAP_TIMES_ROMAN_24, time_7);
 
     //minute
