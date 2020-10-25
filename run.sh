@@ -1,4 +1,4 @@
 #!/bin/bash
-rm app
+rm clock
 g++ clock.cpp -o clock -lglut -lGLU -lGL
 ./clock
